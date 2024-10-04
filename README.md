@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ladzaglae
-- 👀 I’m interested in becoming a Software engineer
-- 🌱 I’m currently learning 
+- 👀 I’m interested in becoming a Software Engineer
+- 🌱 I’m currently learning Software Engineering at Merrimack College
 - 💞️ I’m looking to collaborate on PHP and C# Projects
 - 📫 How to reach me ladzaglae@merrimack.edu
 - 😄 Pronouns: He/Him
